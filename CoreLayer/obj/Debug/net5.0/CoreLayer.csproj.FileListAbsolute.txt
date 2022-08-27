@@ -1,0 +1,15 @@
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CopyComplete
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\baneh90\Desktop\EchatCodeYad\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
